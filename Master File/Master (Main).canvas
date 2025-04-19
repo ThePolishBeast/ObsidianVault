@@ -1,0 +1,43 @@
+{
+	"nodes":[
+		{"id":"3e25286105517b6f","type":"text","text":"Master Area","x":-820,"y":-1060,"width":620,"height":60,"color":"6"},
+		{"id":"c5285fd466b1d9b1","type":"text","text":"Game Servers","x":-380,"y":-660,"width":180,"height":59,"color":"#ffff00"},
+		{"id":"846ebdba56878a30","type":"file","file":"Master File/7. Game Servers/Game Servers.canvas","x":-380,"y":-579,"width":180,"height":180,"color":"#ffff00"},
+		{"id":"db3ff64f5b711301","type":"text","text":"Discord","x":-600,"y":-660,"width":180,"height":59,"color":"#0000ff"},
+		{"id":"3ce654951826c973","type":"file","file":"Master File/6. Discord/Discord.canvas","x":-600,"y":-579,"width":180,"height":180,"color":"#0400ff"},
+		{"id":"daaaa65758277ea4","type":"text","text":"Game Development","x":-380,"y":-360,"width":180,"height":59,"color":"#00ffff"},
+		{"id":"9694e4244e0e46ca","type":"file","file":"Master File/10. Game Development/Game Development.canvas","x":-380,"y":-279,"width":180,"height":180,"color":"#00ffff"},
+		{"id":"fc2f377066b3be66","type":"text","text":"Coding & Programming","x":-600,"y":-360,"width":180,"height":59,"color":"#00ff00"},
+		{"id":"0c281f5be201c76c","type":"file","file":"Master File/9. Coding - Programming/Coding & Programming.canvas","x":-600,"y":-279,"width":180,"height":180,"color":"#00ff00"},
+		{"id":"f7c3fcb496fd25bf","type":"text","text":"Mohawk College","x":-380,"y":-960,"width":180,"height":59,"color":"#ff6400"},
+		{"id":"363855ef29eb83e5","type":"file","file":"Master File/4. Mohawk College/Mohawk College.canvas","x":-380,"y":-879,"width":180,"height":180,"color":"#ff6400"},
+		{"id":"300988531b607c4d","type":"file","file":"Master File/8. Cyber Security/Cyber Security.canvas","x":-820,"y":-279,"width":180,"height":180,"color":"#ff0000"},
+		{"id":"f5ae0808bbd0df74","type":"text","text":"Cyber Security","x":-820,"y":-360,"width":180,"height":59,"color":"#ff0000"},
+		{"id":"b6bfc376564f44d2","type":"text","text":"Shared","x":-600,"y":-960,"width":180,"height":59,"color":"#643200"},
+		{"id":"4b545deeb62b3ac8","type":"file","file":"Master File/3. Shared/Shared.canvas","x":-600,"y":-879,"width":180,"height":180,"color":"#643200"},
+		{"id":"befaff566646b453","type":"text","text":"Certifications","x":-820,"y":-660,"width":180,"height":59,"color":"3"},
+		{"id":"6cc9f301f5e81b2a","type":"file","file":"Master File/5. Certifications/Certifications.canvas","x":-820,"y":-579,"width":180,"height":180,"color":"3"},
+		{"id":"9393f37ef8ed1bd9","type":"text","text":"Personal","x":-820,"y":-960,"width":180,"height":59,"color":"#ff00ff"},
+		{"id":"cc7bf0caa8ef3bb8","type":"file","file":"Master File/2. Personal/Personal.canvas","x":-820,"y":-879,"width":180,"height":180,"color":"#ff00ff"}
+	],
+	"edges":[
+		{"id":"5130426b60a4e552","fromNode":"f5ae0808bbd0df74","fromSide":"bottom","toNode":"300988531b607c4d","toSide":"top"},
+		{"id":"b19885283e83160e","fromNode":"f7c3fcb496fd25bf","fromSide":"bottom","toNode":"363855ef29eb83e5","toSide":"top"},
+		{"id":"eb682134a7b6e7b5","fromNode":"db3ff64f5b711301","fromSide":"bottom","toNode":"3ce654951826c973","toSide":"top"},
+		{"id":"73d12c8cfcbfc209","fromNode":"c5285fd466b1d9b1","fromSide":"bottom","toNode":"846ebdba56878a30","toSide":"top"},
+		{"id":"4d8e475a21bf3996","fromNode":"daaaa65758277ea4","fromSide":"bottom","toNode":"9694e4244e0e46ca","toSide":"top"},
+		{"id":"d8bed8c73606da3f","fromNode":"fc2f377066b3be66","fromSide":"bottom","toNode":"0c281f5be201c76c","toSide":"top"},
+		{"id":"fc31f975c0ac2c60","fromNode":"3e25286105517b6f","fromSide":"bottom","toNode":"f5ae0808bbd0df74","toSide":"top"},
+		{"id":"26ec721361dcebad","fromNode":"3e25286105517b6f","fromSide":"bottom","toNode":"f7c3fcb496fd25bf","toSide":"top"},
+		{"id":"731e6903ff10fa35","fromNode":"3e25286105517b6f","fromSide":"bottom","toNode":"fc2f377066b3be66","toSide":"top"},
+		{"id":"215ea56445e2786f","fromNode":"3e25286105517b6f","fromSide":"bottom","toNode":"db3ff64f5b711301","toSide":"top"},
+		{"id":"1753c7bcd57b1dc6","fromNode":"3e25286105517b6f","fromSide":"bottom","toNode":"c5285fd466b1d9b1","toSide":"top"},
+		{"id":"f31bc0bcbbac0fb2","fromNode":"3e25286105517b6f","fromSide":"bottom","toNode":"daaaa65758277ea4","toSide":"top"},
+		{"id":"3652aebbf550504c","fromNode":"9393f37ef8ed1bd9","fromSide":"bottom","toNode":"cc7bf0caa8ef3bb8","toSide":"top"},
+		{"id":"9edef73369b52244","fromNode":"b6bfc376564f44d2","fromSide":"bottom","toNode":"4b545deeb62b3ac8","toSide":"top"},
+		{"id":"6540451c8c37a191","fromNode":"befaff566646b453","fromSide":"bottom","toNode":"6cc9f301f5e81b2a","toSide":"top"},
+		{"id":"4381862b402796e5","fromNode":"3e25286105517b6f","fromSide":"bottom","toNode":"9393f37ef8ed1bd9","toSide":"top"},
+		{"id":"cb73e0d8b802591f","fromNode":"3e25286105517b6f","fromSide":"bottom","toNode":"b6bfc376564f44d2","toSide":"top"},
+		{"id":"43e996a7d1378f80","fromNode":"3e25286105517b6f","fromSide":"bottom","toNode":"befaff566646b453","toSide":"top"}
+	]
+}

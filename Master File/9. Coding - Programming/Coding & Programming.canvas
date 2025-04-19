@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"3839c72424f72daf","type":"text","text":"Coding & Programming","x":-90,"y":-120,"width":180,"height":59,"color":"#00ff00"},
+		{"id":"910a607d5579ed76","type":"text","text":"","x":-90,"y":-20,"width":180,"height":59,"color":"#00ff00"},
+		{"id":"f509267f18f6477a","type":"text","text":"","x":-250,"y":80,"width":180,"height":59,"color":"#00ff00"},
+		{"id":"7ee62033d98ad2d7","type":"text","text":"","x":70,"y":80,"width":180,"height":59,"color":"#00ff00"},
+		{"id":"9160c00a8be7cc03","type":"file","file":"1. Main/3. Templates/Place Holder.canvas","x":-250,"y":160,"width":180,"height":180,"color":"#00ff00"},
+		{"id":"9e2580e2e56b0eda","type":"file","file":"1. Main/3. Templates/Place Holder.canvas","x":70,"y":160,"width":180,"height":180,"color":"#00ff00"},
+		{"id":"94228b808dc35fdb","type":"file","file":"Master File/Master (Main).canvas","x":-90,"y":-340,"width":180,"height":180,"color":"6"}
+	],
+	"edges":[
+		{"id":"8bfa2ccf4cbe1571","fromNode":"3839c72424f72daf","fromSide":"bottom","toNode":"910a607d5579ed76","toSide":"top"},
+		{"id":"ccacf71ac69f3496","fromNode":"94228b808dc35fdb","fromSide":"bottom","toNode":"3839c72424f72daf","toSide":"top"},
+		{"id":"9fd46692d1d56eb2","fromNode":"910a607d5579ed76","fromSide":"left","toNode":"f509267f18f6477a","toSide":"top"},
+		{"id":"e1bcc41a72f37a5b","fromNode":"910a607d5579ed76","fromSide":"right","toNode":"7ee62033d98ad2d7","toSide":"top"},
+		{"id":"761bc21924a020fe","fromNode":"f509267f18f6477a","fromSide":"bottom","toNode":"9160c00a8be7cc03","toSide":"top"},
+		{"id":"88024ae67f94a1b8","fromNode":"7ee62033d98ad2d7","fromSide":"bottom","toNode":"9e2580e2e56b0eda","toSide":"top"}
+	]
+}

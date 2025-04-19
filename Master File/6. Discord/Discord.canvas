@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"a9da885b77ee03c3","type":"text","text":"Discord","x":-80,"y":-120,"width":180,"height":59,"color":"#0000ff"},
+		{"id":"e3c523a56e70c178","type":"text","text":"Discord Servers","x":-80,"y":-20,"width":180,"height":59,"color":"#0000ff"},
+		{"id":"18e7656946189373","type":"text","text":"Alpaca Network","x":-240,"y":80,"width":180,"height":59,"color":"#0000ff"},
+		{"id":"7ad6f9ac75a51533","type":"text","text":"School Club","x":80,"y":80,"width":180,"height":59,"color":"#0000ff"},
+		{"id":"4b3a4d5606898405","type":"file","file":"1. Main/3. Templates/Place Holder.canvas","x":-240,"y":160,"width":180,"height":180,"color":"#0000ff"},
+		{"id":"06d3c79b7bca458e","type":"file","file":"1. Main/3. Templates/Place Holder.canvas","x":80,"y":160,"width":180,"height":180,"color":"#0000ff"},
+		{"id":"d61fbfa581a6049f","type":"file","file":"Master File/Master (Main).canvas","x":-80,"y":-340,"width":180,"height":180,"color":"6"}
+	],
+	"edges":[
+		{"id":"c8235516d86470b5","fromNode":"d61fbfa581a6049f","fromSide":"bottom","toNode":"a9da885b77ee03c3","toSide":"top"},
+		{"id":"8f81563f7c276658","fromNode":"a9da885b77ee03c3","fromSide":"bottom","toNode":"e3c523a56e70c178","toSide":"top"},
+		{"id":"9e99280dfd9b2c9b","fromNode":"e3c523a56e70c178","fromSide":"left","toNode":"18e7656946189373","toSide":"top"},
+		{"id":"e741373532773bc3","fromNode":"e3c523a56e70c178","fromSide":"right","toNode":"7ad6f9ac75a51533","toSide":"top"},
+		{"id":"dd0a9a235448c8c6","fromNode":"18e7656946189373","fromSide":"bottom","toNode":"4b3a4d5606898405","toSide":"top"},
+		{"id":"eff02949c6f6fa70","fromNode":"7ad6f9ac75a51533","fromSide":"bottom","toNode":"06d3c79b7bca458e","toSide":"top"}
+	]
+}

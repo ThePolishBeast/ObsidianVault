@@ -1,0 +1,9 @@
+{
+  "accentColor": "#e100ff",
+  "showViewHeader": true,
+  "enabledCssSnippets": [
+    "center-text-canvas"
+  ],
+  "theme": "obsidian",
+  "cssTheme": "80s Neon"
+}

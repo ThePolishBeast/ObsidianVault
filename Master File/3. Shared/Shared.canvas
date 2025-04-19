@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"62ee1faacd39a454","type":"text","text":"Shared","x":-90,"y":-120,"width":180,"height":59,"color":"#643200"},
+		{"id":"20c01cf4b176e402","type":"text","text":"","x":-90,"y":-20,"width":180,"height":59,"color":"#643200"},
+		{"id":"a69832ba0b38707d","type":"text","text":"","x":-250,"y":80,"width":180,"height":59,"color":"#643200"},
+		{"id":"d2d30e2c138a40b2","type":"text","text":"","x":70,"y":80,"width":180,"height":59,"color":"#643200"},
+		{"id":"9ea948e85727b408","type":"file","file":"1. Main/3. Templates/Place Holder.canvas","x":-250,"y":160,"width":180,"height":180,"color":"#643200"},
+		{"id":"5d96fa0adb2ee570","type":"file","file":"1. Main/3. Templates/Place Holder.canvas","x":70,"y":160,"width":180,"height":180,"color":"#643200"},
+		{"id":"c9a83d1a86a4dce4","type":"file","file":"Master File/Master (Main).canvas","x":-90,"y":-340,"width":180,"height":180,"color":"6"}
+	],
+	"edges":[
+		{"id":"ddd5b53af71518e9","fromNode":"62ee1faacd39a454","fromSide":"bottom","toNode":"20c01cf4b176e402","toSide":"top"},
+		{"id":"1a82ee302bb6ca00","fromNode":"c9a83d1a86a4dce4","fromSide":"bottom","toNode":"62ee1faacd39a454","toSide":"top"},
+		{"id":"87eaeedf857f666e","fromNode":"20c01cf4b176e402","fromSide":"left","toNode":"a69832ba0b38707d","toSide":"top"},
+		{"id":"a5aa99251b9b0e6e","fromNode":"20c01cf4b176e402","fromSide":"right","toNode":"d2d30e2c138a40b2","toSide":"top"},
+		{"id":"553020d860026a63","fromNode":"a69832ba0b38707d","fromSide":"bottom","toNode":"9ea948e85727b408","toSide":"top"},
+		{"id":"1702905ddbace92a","fromNode":"d2d30e2c138a40b2","fromSide":"bottom","toNode":"5d96fa0adb2ee570","toSide":"top"}
+	]
+}

@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"b17adbe639fa60f0","type":"text","text":"Cyber Security","x":-90,"y":-120,"width":180,"height":59,"color":"#ff0000"},
+		{"id":"527aebe925831660","type":"text","text":"","x":-90,"y":-20,"width":180,"height":59,"color":"#ff0000"},
+		{"id":"c2752666ccc613a8","type":"text","text":"","x":-250,"y":80,"width":180,"height":59,"color":"#ff0000"},
+		{"id":"94b2c15e7e5c42da","type":"text","text":"","x":70,"y":80,"width":180,"height":59,"color":"#ff0000"},
+		{"id":"e6eb48952521c1eb","type":"file","file":"1. Main/3. Templates/Place Holder.canvas","x":-250,"y":160,"width":180,"height":180,"color":"#ff0000"},
+		{"id":"0106e227f28ae819","type":"file","file":"1. Main/3. Templates/Place Holder.canvas","x":70,"y":160,"width":180,"height":180,"color":"#ff0000"},
+		{"id":"3974f8966ae80d09","type":"file","file":"Master File/Master (Main).canvas","x":-90,"y":-340,"width":180,"height":180,"color":"6"}
+	],
+	"edges":[
+		{"id":"c5e40e9dd44fff88","fromNode":"b17adbe639fa60f0","fromSide":"bottom","toNode":"527aebe925831660","toSide":"top"},
+		{"id":"0976cabd4d9c5da8","fromNode":"3974f8966ae80d09","fromSide":"bottom","toNode":"b17adbe639fa60f0","toSide":"top"},
+		{"id":"53de51ed3a6305a1","fromNode":"527aebe925831660","fromSide":"left","toNode":"c2752666ccc613a8","toSide":"top"},
+		{"id":"558790611a4770b3","fromNode":"527aebe925831660","fromSide":"right","toNode":"94b2c15e7e5c42da","toSide":"top"},
+		{"id":"1d66e386630850c2","fromNode":"c2752666ccc613a8","fromSide":"bottom","toNode":"e6eb48952521c1eb","toSide":"top"},
+		{"id":"734a5a0942411992","fromNode":"94b2c15e7e5c42da","fromSide":"bottom","toNode":"0106e227f28ae819","toSide":"top"}
+	]
+}

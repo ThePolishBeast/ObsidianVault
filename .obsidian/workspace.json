@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "d0790cc34174bb39",
+    "type": "split",
+    "children": [
+      {
+        "id": "2a80f5a334555e82",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c39f63e6bc73ef4e",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Master File/Master (Main).canvas",
+                "viewState": {
+                  "x": -549.0682050308997,
+                  "y": -511.7238130824526,
+                  "zoom": -0.3740672325771581
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Master (Main)"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3ff795536ae233ae",
+    "type": "split",
+    "children": [
+      {
+        "id": "cd5c315ca55a141d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0a2910df3fbf422e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a18d9ee5bbaaedbb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f0773ac4518c3e25",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "549eaed919def2cb",
+    "type": "split",
+    "children": [
+      {
+        "id": "1abea1910d9e045f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "487ebd6f38cb7eca",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Master File/2. Personal/Personal.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Personal"
+            }
+          },
+          {
+            "id": "7f50cf8c4d518a91",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Master File/2. Personal/Personal.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Personal"
+            }
+          },
+          {
+            "id": "7e3909dcf617b4bf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ed6a64e8da7a92a0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Master File/2. Personal/Personal.canvas",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Personal"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "c39f63e6bc73ef4e",
+  "lastOpenFiles": [
+    "Master File/10. Game Development/Game Development.canvas",
+    "Master File/Master (Main).canvas",
+    "Master File/9. Coding - Programming/Coding & Programming.canvas",
+    "Master File/8. Cyber Security/Cyber Security.canvas",
+    "Master File/7. Game Servers/Game Servers.canvas",
+    "Master File/6. Discord/Discord.canvas",
+    "Master File/5. Certifications/Certifications.canvas",
+    "Master File/4. Mohawk College/Mohawk College.canvas",
+    "Master File/3. Shared/Shared.canvas",
+    "Master File/2. Personal/Personal.canvas",
+    "Master File/5. Certifications/Google Cybersecurity/Course 1 - Foundations of Cybersecurity/Course 1 - Roadmap.canvas",
+    "Master File/5. Certifications/Google Cybersecurity/Course 1 - Foundations of Cybersecurity/Module 1/Part 1 - Get started with the certificate program/1. Welcome to the Google Cybersecurity Certificate/1. Welcome to the Google Cybersecurity Certificate.md"
+  ]
+}

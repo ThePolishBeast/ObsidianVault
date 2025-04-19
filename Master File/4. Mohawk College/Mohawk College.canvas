@@ -1,0 +1,29 @@
+{
+	"nodes":[
+		{"id":"0d2eba60d30b3920","type":"text","text":"Computer Systems Technology - Network Engineering and Security Analyst - 555","x":-760,"y":-120,"width":250,"height":135,"color":"#ff6400"},
+		{"id":"8e23f6ecd98d7369","type":"text","text":"557","x":-490,"y":-120,"width":250,"height":135,"color":"#ff6400"},
+		{"id":"581f6a5d910404a7","type":"text","text":"558","x":-220,"y":-120,"width":250,"height":135,"color":"#ff6400"},
+		{"id":"3afb6a01f7fa7bed","type":"text","text":"559","x":50,"y":-120,"width":250,"height":135,"color":"#ff6400"},
+		{"id":"01e5944304a72634","type":"text","text":"","x":320,"y":-120,"width":250,"height":135,"color":"#ff6400"},
+		{"id":"0049c6b004ebbc45","type":"text","text":"Mohawk College","x":-220,"y":-240,"width":250,"height":59,"color":"#ff6400"},
+		{"id":"61ddf420e954303c","type":"file","file":"Master File/Master (Main).canvas","x":-220,"y":-540,"width":250,"height":240,"color":"6"},
+		{"id":"2f510a4af2b40012","type":"file","file":"4. Mohawk College/Courses/2. Other/558/558.canvas","x":-220,"y":60,"width":250,"height":240,"color":"#ff6400"},
+		{"id":"44280f15c84358ae","type":"file","file":"4. Mohawk College/Courses/2. Other/559/559.canvas","x":50,"y":60,"width":250,"height":240,"color":"#ff6400"},
+		{"id":"2f9b6591fa790187","type":"file","file":"1. Main/3. Templates/Place Holder.canvas","x":320,"y":60,"width":250,"height":240,"color":"#ff6400"},
+		{"id":"eab71de8ad7653e1","type":"file","file":"4. Mohawk College/Courses/1. Personal/555/555.canvas","x":-760,"y":60,"width":250,"height":240,"color":"#ff6400"},
+		{"id":"5e33a0b3878fa987","type":"file","file":"4. Mohawk College/Courses/2. Other/557/557.canvas","x":-490,"y":60,"width":250,"height":240,"color":"#ff6400"}
+	],
+	"edges":[
+		{"id":"a85fbb73a3f81eaf","fromNode":"0d2eba60d30b3920","fromSide":"bottom","toNode":"eab71de8ad7653e1","toSide":"top"},
+		{"id":"6f8c4dd5230e65c3","fromNode":"0049c6b004ebbc45","fromSide":"top","toNode":"61ddf420e954303c","toSide":"bottom"},
+		{"id":"4b9bfa3387411971","fromNode":"581f6a5d910404a7","fromSide":"bottom","toNode":"2f510a4af2b40012","toSide":"top"},
+		{"id":"a7105c7382a8f1a8","fromNode":"3afb6a01f7fa7bed","fromSide":"bottom","toNode":"44280f15c84358ae","toSide":"top"},
+		{"id":"aa5dccb8fe1c4ef0","fromNode":"01e5944304a72634","fromSide":"bottom","toNode":"2f9b6591fa790187","toSide":"top"},
+		{"id":"67811fbe32674e72","fromNode":"0049c6b004ebbc45","fromSide":"bottom","toNode":"581f6a5d910404a7","toSide":"top"},
+		{"id":"2af2794e4905c9c2","fromNode":"0049c6b004ebbc45","fromSide":"left","toNode":"8e23f6ecd98d7369","toSide":"top"},
+		{"id":"75423a0a516b52f9","fromNode":"0049c6b004ebbc45","fromSide":"left","toNode":"0d2eba60d30b3920","toSide":"top"},
+		{"id":"e7825e733012e5dd","fromNode":"0049c6b004ebbc45","fromSide":"right","toNode":"3afb6a01f7fa7bed","toSide":"top"},
+		{"id":"8e0b288c1f26815a","fromNode":"0049c6b004ebbc45","fromSide":"right","toNode":"01e5944304a72634","toSide":"top"},
+		{"id":"adabf689fd826a48","fromNode":"8e23f6ecd98d7369","fromSide":"bottom","toNode":"5e33a0b3878fa987","toSide":"top"}
+	]
+}

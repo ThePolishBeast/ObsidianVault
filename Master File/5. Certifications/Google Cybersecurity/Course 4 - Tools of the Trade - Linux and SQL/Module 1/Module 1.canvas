@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"906e52c72f44c027","type":"text","text":"Main (Master)","x":-125,"y":-514,"width":250,"height":59,"color":"6"},
+		{"id":"c136b89934e9e3dd","type":"file","file":"Master (Main).canvas","x":-125,"y":-435,"width":250,"height":240,"color":"6"},
+		{"id":"ef8210e94fb8678b","type":"text","text":"Certifications","x":-125,"y":-154,"width":250,"height":59,"color":"3"},
+		{"id":"b99dacbb150137da","type":"file","file":"5. Certifications/Certifications.canvas","x":-125,"y":-74,"width":250,"height":240,"color":"3"},
+		{"id":"4b9a5e6e60a95046","type":"text","text":"Google Cybersecurity","x":-125,"y":195,"width":250,"height":59,"color":"#00ff00"},
+		{"id":"c852fbff2dbf9161","type":"file","file":"5. Certifications/Google Cybersecurity/Google Cybersecurity.canvas","x":-125,"y":275,"width":250,"height":240,"color":"#00ff00"}
+	],
+	"edges":[
+		{"id":"271b67c8b8c27b17","fromNode":"906e52c72f44c027","fromSide":"bottom","toNode":"c136b89934e9e3dd","toSide":"top"},
+		{"id":"3875d5d1a068fbf9","fromNode":"c136b89934e9e3dd","fromSide":"bottom","toNode":"ef8210e94fb8678b","toSide":"top"},
+		{"id":"8383a89a093a613f","fromNode":"ef8210e94fb8678b","fromSide":"bottom","toNode":"b99dacbb150137da","toSide":"top"},
+		{"id":"626f6f6c707ba24f","fromNode":"b99dacbb150137da","fromSide":"bottom","toNode":"4b9a5e6e60a95046","toSide":"top"},
+		{"id":"daa559b77e67b1a1","fromNode":"4b9a5e6e60a95046","fromSide":"bottom","toNode":"c852fbff2dbf9161","toSide":"top"}
+	]
+}

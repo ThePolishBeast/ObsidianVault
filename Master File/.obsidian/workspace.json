@@ -1,0 +1,258 @@
+{
+  "main": {
+    "id": "8bb73f47a0560797",
+    "type": "split",
+    "children": [
+      {
+        "id": "5466a84c87647ae3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "55d399012b47c52b",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Master (Main).canvas",
+                "viewState": {
+                  "x": -510,
+                  "y": -579.5,
+                  "zoom": -0.14805068851817402
+                }
+              }
+            }
+          },
+          {
+            "id": "9eec9a2f34ff5e4d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.5"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "158223333c2fb71a",
+    "type": "split",
+    "children": [
+      {
+        "id": "6a29b1b3ee845505",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "50e8eb36f3c30dad",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "03782b458fe0f9b6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2511895d9d5e6da1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 443.5
+  },
+  "right": {
+    "id": "294831ecc404e876",
+    "type": "split",
+    "children": [
+      {
+        "id": "25b31d969a5f09e5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c9bd4284ae27fd99",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ec3957fe31ee764c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2d53c201b3e79256",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "97e8a45517980ec5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "a206ed7cc177aa5b",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "60f0cea7fa484403",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "c9e9b4dc3b7ea10d",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "publish:Publish changes...": false,
+      "zk-prefixer:Create new unique note": false,
+      "workspaces:Manage workspace layouts": false,
+      "random-note:Open random note": false,
+      "markdown-importer:Open format converter": false,
+      "audio-recorder:Start/stop recording": false,
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-day-planner:Timeline": false,
+      "homepage:Open homepage": false
+    }
+  },
+  "active": "9eec9a2f34ff5e4d",
+  "lastOpenFiles": [
+    "Master (Main).canvas",
+    "5. Certifications/Google Cybersecurity/Course 1 - Foundations of Cybersecurity/Module 3/Module 3.canvas",
+    "5. Certifications/Google Cybersecurity/Course 1 - Foundations of Cybersecurity/Course 1 - Roadmap.canvas",
+    "5. Certifications/Google Cybersecurity/Google Cybersecurity.canvas",
+    "5. Certifications/Certifications.canvas",
+    "5. Certifications/Google Cybersecurity/Course 4 - Tools of the Trade - Linux and SQL/Module 4/ABC/1. Welcome to module 4/1. Welcome to module 4.webm",
+    "1. Main/Dumpoff/1. Welcome to module 4.webm.crdownload",
+    "5. Certifications/Google Cybersecurity/Course 4 - Tools of the Trade - Linux and SQL/Module 4/Module 4 Overview.md",
+    "5. Certifications/Google Cybersecurity/Course 4 - Tools of the Trade - Linux and SQL/Module 4/ABC/1. Welcome to module 4/1. Welcome to module 4.md",
+    "5. Certifications/Google Cybersecurity/Course 4 - Tools of the Trade - Linux and SQL/Module 4/ABC/1. Welcome to module 4",
+    "5. Certifications/Google Cybersecurity/Course 4 - Tools of the Trade - Linux and SQL/Module 4/ABC/1.md",
+    "5. Certifications/Google Cybersecurity/Glossary",
+    "5. Certifications/Google Cybersecurity/Glossary/11. Glossary terms from module 4 1.md",
+    "5. Certifications/Google Cybersecurity/Glossary/13. Glossary terms from module 3 1 1.md",
+    "5. Certifications/Google Cybersecurity/Glossary/21. Glossary terms from module 2 1.md",
+    "5. Certifications/Google Cybersecurity/Glossary/18. Glossary terms from module 1 1.md",
+    "5. Certifications/Google Cybersecurity/Glossary/14. Course 1 glossary 1.md",
+    "5. Certifications/Google Cybersecurity/Course 1 - Foundations of Cybersecurity/Module 4/Part 4 - Congratulations on completing Course 1!/14. Course 1 glossary/~$urse 1 glossary 1 1.docx",
+    "5. Certifications/Google Cybersecurity/Glossary/14. Course 1 glossary 1 1.docx",
+    "5. Certifications/Google Cybersecurity/Glossary/13. Glossary terms from module 3 1.md",
+    "5. Certifications/Google Cybersecurity/Glossary/14. Glossary terms from module 2 1.md",
+    "5. Certifications/Google Cybersecurity/Glossary/21. Glossary terms from module 1 1 1.md",
+    "5. Certifications/Google Cybersecurity/Course 4 - Tools of the Trade - Linux and SQL/Module 3/Module 3.canvas",
+    "5. Certifications/Google Cybersecurity/Course 4 - Tools of the Trade - Linux and SQL/Module 3/Module 3 Overview.md",
+    "5. Certifications/Google Cybersecurity/Glossary/21. Glossary terms from module 1 1.md",
+    "5. Certifications/Google Cybersecurity/Glossary/22. Glossary terms from module 2 1.md",
+    "5. Certifications/Google Cybersecurity/Glossary/32. Glossary terms from module 3 1.md",
+    "5. Certifications/Google Cybersecurity/Course 4 - Tools of the Trade - Linux and SQL/Module 3/Part 5 - Review - Linux commands in the Bash shell/33. Module 3 challenge/33. Module 3 challenge.md",
+    "5. Certifications/Google Cybersecurity/Course 4 - Tools of the Trade - Linux and SQL/Module 3/Part 5 - Review - Linux commands in the Bash shell/33. Module 3 challenge/Pasted image 20240526062536.png",
+    "5. Certifications/Google Cybersecurity/Course 4 - Tools of the Trade - Linux and SQL/Module 3/Part 5 - Review - Linux commands in the Bash shell/33. Module 3 challenge/Pasted image 20240526062523.png",
+    "5. Certifications/Google Cybersecurity/Course 4 - Tools of the Trade - Linux and SQL/Module 3/Part 5 - Review - Linux commands in the Bash shell/33. Module 3 challenge/Pasted image 20240526062514.png",
+    "5. Certifications/Google Cybersecurity/Course 4 - Tools of the Trade - Linux and SQL/Module 3/Part 5 - Review - Linux commands in the Bash shell/33. Module 3 challenge/Pasted image 20240526062507.png",
+    "5. Certifications/Google Cybersecurity/Course 4 - Tools of the Trade - Linux and SQL/Module 3/Part 5 - Review - Linux commands in the Bash shell/33. Module 3 challenge/Pasted image 20240526062458.png",
+    "5. Certifications/Google Cybersecurity/Course 4 - Tools of the Trade - Linux and SQL/Module 3/Part 5 - Review - Linux commands in the Bash shell/32. Glossary terms from module 3/32. Glossary terms from module 3.md",
+    "5. Certifications/Google Cybersecurity/Course 4 - Tools of the Trade - Linux and SQL/Module 3/Part 5 - Review - Linux commands in the Bash shell/33. Module 3 challenge",
+    "5. Certifications/Google Cybersecurity/Course 4 - Tools of the Trade - Linux and SQL/Module 3/Part 5 - Review - Linux commands in the Bash shell/31. Reference guide - Linux/31. Reference guide - Linux.md",
+    "5. Certifications/Google Cybersecurity/Course 4 - Tools of the Trade - Linux and SQL/Module 3/Part 5 - Review - Linux commands in the Bash shell/32. Glossary terms from module 3",
+    "5. Certifications/Google Cybersecurity/Course 4 - Tools of the Trade - Linux and SQL/Module 3/Part 5 - Review - Linux commands in the Bash shell/30. Wrap-up/30. Wrap-up.md",
+    "5. Certifications/Google Cybersecurity/Course 4 - Tools of the Trade - Linux and SQL/Module 3/Part 5 - Review - Linux commands in the Bash shell/31. Reference guide - Linux",
+    "5. Certifications/Google Cybersecurity/Course 4 - Tools of the Trade - Linux and SQL/Module 3/Part 5 - Review - Linux commands in the Bash shell/30. Wrap-up/30. Wrap-up.webm",
+    "5. Certifications/Google Cybersecurity/Course 4 - Tools of the Trade - Linux and SQL/Module 3/Part 4 - Get help in Linux/29. Test your knowledge - Get help in Linux/29. Test your knowledge - Get help in Linux.md",
+    "5. Certifications/Google Cybersecurity/Course 4 - Tools of the Trade - Linux and SQL/Module 3/Part 4 - Get help in Linux/29. Test your knowledge - Get help in Linux/Pasted image 20240526061737.png",
+    "5. Certifications/Google Cybersecurity/Course 4 - Tools of the Trade - Linux and SQL/Module 3/Part 4 - Get help in Linux/29. Test your knowledge - Get help in Linux/Pasted image 20240526061730.png",
+    "5. Certifications/Google Cybersecurity/Course 4 - Tools of the Trade - Linux and SQL/Module 3/Part 4 - Get help in Linux/29. Test your knowledge - Get help in Linux/Pasted image 20240526061722.png",
+    "5. Certifications/Google Cybersecurity/Course 4 - Tools of the Trade - Linux and SQL/Module 3/Part 4 - Get help in Linux/28. Activity - Get help in the command line/28. Activity - Get help in the command line.md",
+    "5. Certifications/Google Cybersecurity/Course 4 - Tools of the Trade - Linux and SQL/Module 3/Part 4 - Get help in Linux/27. Linux resources/27. Linux resources.md",
+    "5. Certifications/Google Cybersecurity/Course 4 - Tools of the Trade - Linux and SQL/Module 3/Part 4 - Get help in Linux/26. Man pages within the shell/26. Man pages within the shell.md",
+    "5. Certifications/Google Cybersecurity/Course 4 - Tools of the Trade - Linux and SQL/Module 3/Part 4 - Get help in Linux/25. The Linux community/25. The Linux community.md",
+    "5. Certifications/Google Cybersecurity/Course 4 - Tools of the Trade - Linux and SQL/Module 3/Part 4 - Get help in Linux/24. Damar - My journey into Linux commands/24. Damar - My journey into Linux commands.md",
+    "5. Certifications/Google Cybersecurity/Course 4 - Tools of the Trade - Linux and SQL/Module 3/Part 3 - Authenticate and authorize users/23. Test your knowledge - Authenticate and authorize users/Pasted image 20240526044451.png",
+    "5. Certifications/Google Cybersecurity/Course 4 - Tools of the Trade - Linux and SQL/Module 3/Part 3 - Authenticate and authorize users/23. Test your knowledge - Authenticate and authorize users/Pasted image 20240526044444.png",
+    "5. Certifications/Google Cybersecurity/Course 4 - Tools of the Trade - Linux and SQL/Course 4 - Roadmap.canvas",
+    "5. Certifications/Google Cybersecurity/Course 4 - Tools of the Trade - Linux and SQL/Module 1/Module 1.canvas",
+    "5. Certifications/Google Cybersecurity/Course 4 - Tools of the Trade - Linux and SQL/Module 4/Module 4.canvas",
+    "5. Certifications/Google Cybersecurity/Course 4 - Tools of the Trade - Linux and SQL/Module 2/Module 2.canvas",
+    "5. Certifications/Google Cybersecurity/Course 3 - Connect and Protect - Networks and Network Security/Course 3 - Roadmap.canvas"
+  ]
+}

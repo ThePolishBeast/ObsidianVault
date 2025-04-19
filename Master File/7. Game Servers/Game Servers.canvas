@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"4e4c87a4da826b11","type":"text","text":"Game Servers","x":-90,"y":-120,"width":180,"height":59,"color":"#ffff00"},
+		{"id":"8ab5c8b7c00218c8","type":"text","text":"Servers","x":-90,"y":-20,"width":180,"height":59,"color":"#ffff00"},
+		{"id":"4cb0b1512e199b12","type":"text","text":"Minecraft","x":-250,"y":80,"width":180,"height":59,"color":"#ffff00"},
+		{"id":"1bbceba541f7477a","type":"text","text":"Terraria","x":70,"y":80,"width":180,"height":59,"color":"#ffff00"},
+		{"id":"4f965b6dd2c2be5b","type":"file","file":"1. Main/3. Templates/Place Holder.canvas","x":-250,"y":160,"width":180,"height":180,"color":"#ffff00"},
+		{"id":"9db5757c94e7f253","type":"file","file":"1. Main/3. Templates/Place Holder.canvas","x":70,"y":160,"width":180,"height":180,"color":"#ffff00"},
+		{"id":"1a842e19f14eb351","type":"file","file":"Master File/Master (Main).canvas","x":-90,"y":-340,"width":180,"height":180,"color":"6"}
+	],
+	"edges":[
+		{"id":"a43c7807eb0c2967","fromNode":"4e4c87a4da826b11","fromSide":"bottom","toNode":"8ab5c8b7c00218c8","toSide":"top"},
+		{"id":"d95676082a507615","fromNode":"1a842e19f14eb351","fromSide":"bottom","toNode":"4e4c87a4da826b11","toSide":"top"},
+		{"id":"9e753efa6dd49174","fromNode":"8ab5c8b7c00218c8","fromSide":"left","toNode":"4cb0b1512e199b12","toSide":"top"},
+		{"id":"04fcc58cc2ab3a89","fromNode":"8ab5c8b7c00218c8","fromSide":"right","toNode":"1bbceba541f7477a","toSide":"top"},
+		{"id":"29d2a67c16f9e984","fromNode":"4cb0b1512e199b12","fromSide":"bottom","toNode":"4f965b6dd2c2be5b","toSide":"top"},
+		{"id":"e5b7d2a5bb974b00","fromNode":"1bbceba541f7477a","fromSide":"bottom","toNode":"9db5757c94e7f253","toSide":"top"}
+	]
+}

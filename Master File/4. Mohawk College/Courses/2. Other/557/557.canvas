@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"c354b6b0d70d64e5","type":"text","text":"Term 1","x":-100,"y":70,"width":200,"height":60},
+		{"id":"b215107b4eb554a9","type":"text","text":"📝 | Assignments","x":-100,"y":255,"width":200,"height":60},
+		{"id":"e6f5e2f9d9efa7c6","type":"text","text":"⚗️ | Labs","x":-100,"y":335,"width":200,"height":60},
+		{"id":"cd52cf5ebf329879","type":"text","text":"✏️ | Notes","x":-100,"y":415,"width":200,"height":60},
+		{"id":"938c66e83a96e964","type":"text","text":"Resources","x":-100,"y":490,"width":200,"height":60},
+		{"id":"207c49b274fc386d","type":"text","text":"📘 | Class","x":-100,"y":175,"width":200,"height":60},
+		{"id":"9cef7d82ed19a267","type":"file","file":"4. Mohawk College/Mohawk College.canvas","x":-125,"y":-250,"width":250,"height":240,"color":"6"},
+		{"id":"a2237b262e0b1b47","type":"file","file":"Master (Main).canvas","x":-125,"y":-550,"width":250,"height":240,"color":"6"}
+	],
+	"edges":[
+		{"id":"51460e123a13c8c5","fromNode":"c354b6b0d70d64e5","fromSide":"bottom","toNode":"207c49b274fc386d","toSide":"top"},
+		{"id":"5bc74e69d83459b5","fromNode":"9cef7d82ed19a267","fromSide":"bottom","toNode":"c354b6b0d70d64e5","toSide":"top"},
+		{"id":"c49ff7e31a76e7e2","fromNode":"a2237b262e0b1b47","fromSide":"bottom","toNode":"9cef7d82ed19a267","toSide":"top"}
+	]
+}
